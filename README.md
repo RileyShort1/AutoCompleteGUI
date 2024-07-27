@@ -1,4 +1,5 @@
-Instructions to run: 
+Instructions to run:
+
 From your IDE you should be able to import a new project from version control (it should ask for a link to this repo)
 Once the project is imported you will need to define the JDK. The important part here is that this project uses Java fx...
 The way I do it is to use Java 8, which has java fx built-in, download here -> (https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
